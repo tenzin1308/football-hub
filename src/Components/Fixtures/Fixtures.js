@@ -2,7 +2,7 @@ import './Fixtures.css'
 import Bann from '../Banner/Banner';
 
 
-function Features(){
+function Fixtures(){
     return(
         <>
 
@@ -22,4 +22,4 @@ function Features(){
     )
 }
 
-export default Features;
+export default Fixtures;

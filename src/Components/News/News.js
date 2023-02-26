@@ -1,4 +1,4 @@
-import Bann from "../Banner/Banner";
+import Bann from "../banner/Banner";
 import NewsCard from "./NewsCards";
 
 function News(){

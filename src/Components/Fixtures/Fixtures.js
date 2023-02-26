@@ -1,5 +1,5 @@
 import './Fixtures.css'
-import Bann from '../Banner/Banner';
+import Bann from '../banner/Banner';
 
 
 function Fixtures(){
